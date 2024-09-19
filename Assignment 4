@@ -1,0 +1,11 @@
+Assignment 4
+1. Write a C++ Program to calculate Volume of Cube using constructors. 
+
+2. Write a C++ Program to determine the Area of Rectangle using constructors. 
+
+3. Write a C++ Program to display date using constructors. 
+
+4 Write a C++ Program to show constructor and destructor example. 
+(HINT - Call both constructor and a default constructor, then insert the values in the object by invoking them and show the constructor and destructor)
+
+5. Write a C++ Program to display Student Details using constructor and destructor
