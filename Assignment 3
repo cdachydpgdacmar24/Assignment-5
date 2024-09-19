@@ -1,0 +1,59 @@
+1. Write a C++ program that accepts the user's first and last name and prints them in reverse order with a space between them. 
+Sample Output:
+Print the name in reverse where last name comes first: 
+----------------------------------------------------------------
+Input First Name: Alexandra
+Input Last Name: Abramov
+Name in reverse is: Abramov Alexandra
+
+2. Write a C++ program to calculate the sum of all even and odd numbers in an array. 
+Sample Output:
+Original array: 1 2 3 4 5 6 7 8
+Sum of all even and odd numbers: 20,16
+
+3. Write a C++ program to print the code (ASCII code / Unicode code etc.) of a given character. 
+Sample Output:
+Print code (ASCII code / Unicode code etc.) of a given
+character: 
+-----------------------------------------------------------------------
+Input a character: a
+The ASCII value of a is: 97
+The character for the ASCII value 97 is: a
+
+4. Write a C++ program to enter P, T, R and calculate Simple
+Interest. 
+Sample Output:
+Calculate the Simple Interest : 
+-----------------------------------
+Input the Principle: 20000
+Input the Rate of Interest: 10
+Input the Time: 1.5
+The Simple interest for the amount 20000 for 1 years @10 %is:
+2000
+
+5. Write a C++ program to enter P, T, R and calculate compound interest. 
+Sample Output:
+Calculate the Compound Interest : 
+-------------------------------------
+Input the Principle: 20000
+Input the Rate of Interest: 10
+Input the Time: 1.5
+The Interest after compounded for the amount 20000 for 1.5 years
+@10% is: 3073.8
+
+6. Write a C++ program to add two binary numbers. 
+Sample Output:
+Addition of two binary numbers: -----------------------------------
+Input the 1st binary number: 1010
+Input the 2nd binary number: 0011
+The sum of two binary numbers is: 1101
+
+7. Write a C++ program to find the largest element of a given array of integers. 
+
+8. Write a C++ program to sort a given unsorted array of integers, in wave form. 
+Note: An array is in wave form when 
+array[0] >= array[1]<=array[2] >= array[3] <= array[4] >= . . . 
+
+9. Write a C++ program to separate even and odd numbers in an array of integers. Put all even numbers first, and then odd numbers. 
+
+10. Write a C++ program to find the smallest element of a given array of integers.
